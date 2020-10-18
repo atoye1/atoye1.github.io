@@ -4,10 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-## devinlife.github.io 블로그
+## atoye1.github.io 블로그
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
-
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+이 블로그는 개발 및 컴퓨터공학 관련 공부를 기록하기 위한 블로그다.  
+블로그를 만드는 데 [Devinlife.com](https://devinlife.com/)님의 튜토리얼을 참고하였다.
