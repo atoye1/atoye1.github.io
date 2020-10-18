@@ -3,11 +3,11 @@ title: "github.io 블로그 시작하기"
 excert: "github blog 서비스인 github.io 시작하기로 했다"
 
 categories:
--blog
+  - blog
 tags:
--blog
+  - blog
 
-last_modified_at: sun oct 18 22:52:24 kst 2020
+last_modified_at: 1920-10-18
 ---
 
 b Blog 서비스인 github.io 블로그 시작하기로 했다.
