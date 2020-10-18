@@ -1,8 +1,9 @@
 ---
-title: "공부에 대한 생각"
+title: "YFM 템플릿"
 excerpt: ""
 date: 2020_10_19
-categories: essay
+categories: utils
+tags: etc
 last_modified_at:
 ---
 
