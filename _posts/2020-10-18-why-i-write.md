@@ -2,7 +2,8 @@
 title: "내가 깃헙 페이지를 작성하는 이유"
 excerpt: ""
 date: 2020_10_18
-categories: bio diary
+categories: bio essay
+tags: essay
 last_modified_at:
 ---
 
