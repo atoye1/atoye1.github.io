@@ -1,6 +1,6 @@
 ---
 title: "선택 정렬"
-excerpt: ""
+excerpt: "선택정렬 알고리즘에 대해 알아본다"
 date: 2020_10_20
 categories: algorithm
 tags:
