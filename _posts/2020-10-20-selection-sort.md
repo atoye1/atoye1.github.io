@@ -59,3 +59,5 @@ my_list = [13, 22, 3, 5, 11, 2, 5, 7, 22, 33]
 print(find_min_idx(my_list))
 print(sel_sort(my_list))
 ```
+
+- Selection Sort의 시간복잡도는 O(n<sup>2</sup>)이다.
