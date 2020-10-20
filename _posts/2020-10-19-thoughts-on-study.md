@@ -1,7 +1,7 @@
 ---
 title: "공부에 대한 생각"
 excerpt: ""
-date: 2020_10_20 18:37:24
+date: 2020_10_20
 categories: essay
 tags: 
 last_modified_at:
