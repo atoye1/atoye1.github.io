@@ -24,6 +24,7 @@ toc_sticky: true
 - 대상중에서 최소값을 선택하여 순차적으로 줄세우는 알고리즘
 - 시간복잡도는 O(n<sup>2</sup>)  
 
+-이해를 돕기 위해 풀어쓴 쉬운 버젼
 ```python
 def find_min_idx(a):
     min_idx = 0
@@ -39,7 +40,10 @@ def sel_sort(a):
         result.append(a.pop(find_min_idx(a)))
         print(result)
     return result
+```
 
+-일반적인 선택정렬 코드
+```python
 def normal_sel_sort(a):
     n = len(a):
     for i in range(0, n-1):
@@ -47,6 +51,7 @@ def normal_sel_sort(a):
         for j in range(i+1, n):
             if a[j] < a[min_idx]:
                 min_idx=j
+            # print(a)
         a[i], a[min_idx] = a[min_idx], a[i]
 
 
