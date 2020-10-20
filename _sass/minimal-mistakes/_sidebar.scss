@@ -73,8 +73,10 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  // donghun seol sticky
   position: -webkit-sticky;
   position: sticky;
+  // donghun seol sticky
 
   @include breakpoint($large) {
     position: absolute;
