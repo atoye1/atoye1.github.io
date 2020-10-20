@@ -6,7 +6,7 @@ categories: essay
 tags: 
 last_modified_at:
 toc: true # Table of content
-toc_stickt: true
+toc_sticky: true
 ---
 
 # 1. 내가 공부하는 목적
