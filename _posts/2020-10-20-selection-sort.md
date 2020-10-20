@@ -22,7 +22,7 @@ toc_sticky: true
 ### 선택정렬
 
 - 대상중에서 최소값을 선택하여 순차적으로 줄세우는 알고리즘
-- 시간복잡도는 O(n^2^)
+- 시간복잡도는 O(n<sup>2</sup>)  
 
 ```python
 def find_min_idx(a):
