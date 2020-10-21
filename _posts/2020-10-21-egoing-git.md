@@ -24,9 +24,9 @@ toc_sticky: true
   - 수정된 내용까지 모두 보여준다
 
 ### 3. git add
-
 - unstaged 된 파일을 staged한다.
 - git reset 으로 취소가능
+- git reset --hard 전체 내용을 변경전(직전 커밋으로) 되돌린다.
 
 ### 4. git commit
 - staged된 내용을 커밋한다.
@@ -39,3 +39,5 @@ toc_sticky: true
 - commit이전에 변경된 내용을 보여준다.
 
 ### 7. git checkout
+- 과거와 현재를 왔다갔다하며 시간여행
+- 'git checkout master' 최신버전으로 돌아가기
