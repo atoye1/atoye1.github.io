@@ -2,8 +2,8 @@
 title: "생활코딩 Git수업"
 excerpt: ""
 date: 2020_10_21
-categories:
-tags:
+categories: git
+tags: git
 last_modified_at: 2020-10-21 23:52:06
 toc: true
 toc_sticky: true
@@ -41,3 +41,7 @@ toc_sticky: true
 ### 7. git checkout
 - 과거와 현재를 왔다갔다하며 시간여행
 - 'git checkout master' 최신버전으로 돌아가기
+
+### 8. git revert
+- 특정커밋을 유지하면서 직전 커밋으로 돌아가려고 할때 사용한다.
+일반적으로 reset 보다 안전한 커맨드로 자주 활용할듯
