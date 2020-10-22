@@ -37,11 +37,12 @@ toc_sticky: true
 - commit에 새 파일을 추가해서 수정하려면 아래와 같이 한다.
 ```git 
   git add <new filename>
-  git commit -amend -m "new file also added"
+  git commit --amend -m "new file also added"
   ```
 
 ### 5. git push
 - commited 내용을 원격지에 보낸다.
+- git push -f 로 원격지 내용을 강제로 덮어쓰기 가능
 
 ### 6. git diff
 - commit이전에 변경된 내용을 보여준다.
